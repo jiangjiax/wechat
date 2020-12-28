@@ -3,6 +3,8 @@ package wechat
 import (
 	"os"
 
+	"github.com/jiangjiax/wechat/v2/pay"
+	payConfig "github.com/jiangjiax/wechat/v2/pay/config"
 	"github.com/silenceper/wechat/v2/cache"
 	"github.com/silenceper/wechat/v2/miniprogram"
 	miniConfig "github.com/silenceper/wechat/v2/miniprogram/config"
@@ -10,8 +12,6 @@ import (
 	offConfig "github.com/silenceper/wechat/v2/officialaccount/config"
 	"github.com/silenceper/wechat/v2/openplatform"
 	openConfig "github.com/silenceper/wechat/v2/openplatform/config"
-	"github.com/silenceper/wechat/v2/pay"
-	payConfig "github.com/silenceper/wechat/v2/pay/config"
 	log "github.com/sirupsen/logrus"
 )
 

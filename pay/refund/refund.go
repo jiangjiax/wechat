@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"fmt"
 
-	"github.com/silenceper/wechat/v2/pay/config"
+	"github.com/jiangjiax/wechat/v2/pay/config"
 	"github.com/silenceper/wechat/v2/util"
 )
 
