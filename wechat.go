@@ -5,13 +5,13 @@ import (
 
 	"github.com/jiangjiax/wechat/v2/pay"
 	payConfig "github.com/jiangjiax/wechat/v2/pay/config"
-	"github.com/silenceper/wechat/v2/cache"
-	"github.com/silenceper/wechat/v2/miniprogram"
-	miniConfig "github.com/silenceper/wechat/v2/miniprogram/config"
-	"github.com/silenceper/wechat/v2/officialaccount"
-	offConfig "github.com/silenceper/wechat/v2/officialaccount/config"
-	"github.com/silenceper/wechat/v2/openplatform"
-	openConfig "github.com/silenceper/wechat/v2/openplatform/config"
+	"github.com/jiangjiax/wechat/v2/cache"
+	"github.com/jiangjiax/wechat/v2/miniprogram"
+	miniConfig "github.com/jiangjiax/wechat/v2/miniprogram/config"
+	"github.com/jiangjiax/wechat/v2/officialaccount"
+	offConfig "github.com/jiangjiax/wechat/v2/officialaccount/config"
+	"github.com/jiangjiax/wechat/v2/openplatform"
+	openConfig "github.com/jiangjiax/wechat/v2/openplatform/config"
 	log "github.com/sirupsen/logrus"
 )
 

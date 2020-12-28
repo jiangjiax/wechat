@@ -5,7 +5,7 @@ import (
 	"fmt"
 
 	"github.com/jiangjiax/wechat/v2/pay/config"
-	"github.com/silenceper/wechat/v2/util"
+	"github.com/jiangjiax/wechat/v2/util"
 )
 
 var refundGateway = "https://api.mch.weixin.qq.com/secapi/pay/refund"
